@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Noti</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_view">view</string>
+</resources>

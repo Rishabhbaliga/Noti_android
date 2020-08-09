@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "179171055381",
+    "firebase_url": "https://noti-e380e.firebaseio.com",
+    "project_id": "noti-e380e",
+    "storage_bucket": "noti-e380e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179171055381:android:14660180a41d2b28863b1c",
+        "android_client_info": {
+          "package_name": "com.example.noti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179171055381-4ir0ui5kupaejpm2ptrqr3br7lm1t705.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.noti",
+            "certificate_hash": "1371799cf9db306d88e10a88dfae1b29866469b5"
+          }
+        },
+        {
+          "client_id": "179171055381-72efmco01089unqs2ak4ko03819ia210.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO0i8jj-lpAwid-0ESqggnAgLqcASDblU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179171055381-72efmco01089unqs2ak4ko03819ia210.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
